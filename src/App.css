@@ -1,0 +1,9 @@
+body {
+  background-color: #18191a;
+}
+
+.app_body {
+  display: flex;
+  color: white;
+  margin-top: 20px;
+}
